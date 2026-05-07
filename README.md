@@ -102,11 +102,11 @@ No entanto, a implementação da IA exige planejamento, treinamento adequado dos
 
 ### 🔁 Prompts Reutilizáveis
 
-- "Explique de forma simples como funciona [tema]"
-- "Quais são as principais vantagens e desvantagens de [tema]?"
-- "Dê exemplos práticos de como [tema] é aplicado no mercado"
-- "Resuma os principais pontos sobre [tema]"
-- "Como aplicar [tema] em um cenário real de empresa?"
+- "Explique de forma simples como funciona chatbots no atendimento ao cliente"
+- "Quais são as principais vantagens e desvantagens da automação no atendimento ao cliente?"
+- "Dê exemplos práticos de como a inteligência artificial é aplicada no atendimento ao cliente no mercado"
+- "Resuma os principais pontos sobre inteligência artificial no atendimento ao cliente"
+- "Como aplicar inteligência artificial no atendimento de uma empresa de marketing digital?"
 
 ---
 
