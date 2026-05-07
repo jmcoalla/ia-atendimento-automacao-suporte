@@ -116,6 +116,7 @@ A Inteligência Artificial no atendimento ao cliente é uma tendência consolida
 
 ---
 
-## 🔗 Link do Projeto
+## 🔗 Links do Projeto
 
 https://github.com/jmcoalla/ia-atendimento-automacao-suporte
+https://notebooklm.google.com/notebook/bb9515a8-3046-4d59-973a-c9c96a3be3bc
