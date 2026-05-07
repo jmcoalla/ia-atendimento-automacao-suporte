@@ -113,3 +113,9 @@ No entanto, a implementação da IA exige planejamento, treinamento adequado dos
 ## 🚀 Conclusão
 
 A Inteligência Artificial no atendimento ao cliente é uma tendência consolidada que proporciona eficiência, redução de custos e melhoria na experiência do usuário. Quando bem aplicada, ela se torna um diferencial competitivo importante para empresas modernas.
+
+---
+
+## 🔗 Link do Projeto
+
+https://github.com/jmcoalla/ia-atendimento-automacao-suporte
