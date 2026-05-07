@@ -79,27 +79,37 @@ Os principais benefícios incluem escalabilidade, atendimento contínuo (24/7), 
 
 ## 📖 Miniguia de Estudo
 
-### 📌 Resumo
-(Depois vamos montar)
+### 📌 Resumo Estruturado
+
+A Inteligência Artificial vem transformando o atendimento ao cliente ao permitir automação, personalização e escalabilidade dos serviços. Com o uso de chatbots e assistentes virtuais, empresas conseguem oferecer suporte 24 horas por dia, reduzindo custos operacionais e melhorando o tempo de resposta.
+
+Além disso, a IA possibilita a análise de dados em larga escala, permitindo entender o comportamento do cliente e oferecer soluções mais assertivas. Tecnologias como machine learning e processamento de linguagem natural tornam o atendimento mais eficiente e inteligente.
+
+No entanto, a implementação da IA exige planejamento, treinamento adequado dos sistemas e integração com atendimento humano, garantindo equilíbrio entre automação e humanização.
 
 ---
 
 ### 📚 Glossário
 
-- IA: Inteligência Artificial
-- Chatbot: Sistema automatizado de conversa
-- Automação: Execução de tarefas sem intervenção humana
+- **Inteligência Artificial (IA):** Tecnologia que permite que máquinas simulem a inteligência humana.
+- **Chatbot:** Programa que simula conversas humanas de forma automatizada.
+- **Machine Learning:** Método de aprendizado de máquina baseado em dados.
+- **Processamento de Linguagem Natural (PLN):** Capacidade da IA de entender e responder linguagem humana.
+- **Automação:** Execução de tarefas sem intervenção humana.
+- **Experiência do Cliente (CX):** Percepção do cliente sobre a interação com uma empresa.
 
 ---
 
 ### 🔁 Prompts Reutilizáveis
 
-- "Explique de forma simples..."
-- "Resuma os principais pontos sobre..."
-- "Quais são as vantagens e desvantagens de..."
+- "Explique de forma simples como funciona [tema]"
+- "Quais são as principais vantagens e desvantagens de [tema]?"
+- "Dê exemplos práticos de como [tema] é aplicado no mercado"
+- "Resuma os principais pontos sobre [tema]"
+- "Como aplicar [tema] em um cenário real de empresa?"
 
 ---
 
 ## 🚀 Conclusão
 
-A Inteligência Artificial no atendimento ao cliente é uma tendência crescente que traz eficiência, escalabilidade e melhor experiência para os usuários.
+A Inteligência Artificial no atendimento ao cliente é uma tendência consolidada que proporciona eficiência, redução de custos e melhoria na experiência do usuário. Quando bem aplicada, ela se torna um diferencial competitivo importante para empresas modernas.
