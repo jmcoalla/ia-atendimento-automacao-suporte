@@ -31,27 +31,49 @@ Este projeto tem como objetivo explorar como a IA pode ser aplicada no suporte a
 
 ## 🧠 Engenharia de Prompts
 
-### Prompt 1:
-"Como a inteligência artificial está sendo utilizada no atendimento ao cliente?"
-
-### Resposta:
-(Depois vamos preencher juntos)
+### 🎯 Objetivo
+Explorar como diferentes formas de formular perguntas impactam a qualidade das respostas geradas por IA no contexto de atendimento ao cliente.
 
 ---
 
-### Prompt 2:
-"Quais são os benefícios da automação no suporte ao cliente?"
+### 🔹 Prompt 1 (Simples)
+"Como a inteligência artificial está sendo utilizada no atendimento ao cliente?"
 
-### Resposta:
-(Depois vamos preencher juntos)
+### ✅ Resposta:
+A Inteligência Artificial está sendo amplamente utilizada no atendimento ao cliente por meio de chatbots, assistentes virtuais e sistemas automatizados. Essas soluções permitem respostas rápidas, atendimento 24 horas e redução de custos operacionais. Além disso, a IA pode analisar dados dos clientes para personalizar interações e melhorar a experiência do usuário.
+
+---
+
+### 🔹 Prompt 2 (Refinado)
+"Explique de forma detalhada como a inteligência artificial melhora o atendimento ao cliente, incluindo exemplos práticos."
+
+### ✅ Resposta:
+A IA melhora o atendimento ao cliente ao automatizar interações e fornecer respostas mais rápidas e precisas. Por exemplo, chatbots conseguem resolver dúvidas comuns instantaneamente, enquanto sistemas mais avançados utilizam machine learning para entender o comportamento do cliente e oferecer soluções personalizadas. Empresas utilizam IA para triagem de chamados, recomendação de produtos e análise de sentimento, tornando o atendimento mais eficiente e estratégico.
+
+---
+
+### 🔹 Prompt 3 (Avançado - Contextualizado)
+"Quais são os principais benefícios e desafios da utilização de IA no suporte ao cliente em empresas modernas?"
+
+### ✅ Resposta:
+Os principais benefícios incluem escalabilidade, atendimento contínuo (24/7), redução de custos e melhoria na experiência do cliente. No entanto, existem desafios como a necessidade de treinamento dos modelos, risco de respostas imprecisas e a falta de humanização em algumas interações. Por isso, muitas empresas adotam modelos híbridos, combinando IA com atendimento humano.
 
 ---
 
 ## ⚠️ Dificuldades Encontradas
 
-- Ajustar prompts para respostas mais completas
-- Filtrar informações relevantes
-- Evitar respostas genéricas da IA
+- Respostas iniciais muito genéricas
+- Necessidade de refinar os prompts para obter mais profundidade
+- Ajustar o nível de detalhe das respostas
+- Evitar repetições e melhorar a clareza
+
+---
+
+## 🧩 Aprendizados
+
+- Pequenas mudanças no prompt geram grandes diferenças nas respostas
+- Prompts mais específicos geram respostas mais completas
+- Contextualizar a pergunta melhora a qualidade da informação
 
 ---
 
